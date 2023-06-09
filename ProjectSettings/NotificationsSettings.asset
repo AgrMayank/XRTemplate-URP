@@ -35,7 +35,7 @@
                 "UnityNotificationAndroidCustomActivityString"
             ],
             "m_Values": [
-                "False",
+                "True",
                 "0",
                 "False",
                 "com.unity3d.player.UnityPlayerActivity"
