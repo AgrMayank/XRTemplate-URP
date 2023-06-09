@@ -1,5 +1,5 @@
 # XR Template using URP
- Configured with URP, Input System, Shader Graph, Visual Scripting, XR Interation Toolkit for mobile & HMD devices, etc
+ Configured with URP, Input System, Shader Graph, Visual Scripting, XR Interaction Toolkit for mobile & HMD devices, etc
 
 ## Uses
  Can be used as a starting point for - 
