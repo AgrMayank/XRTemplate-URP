@@ -15,11 +15,17 @@ EditorBuildSettings:
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9c8d88f5f6c484708924ec94615b8402,
       type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8bf21056328c142f69695aa61b037e83,
+      type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: c04e407dc385a491f99d128ea378bad1, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7c8c0d33294274032af558845fc7accc,
       type: 2}
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 6f7aacc3eda384f0cb0ed17de25c4c9f,
       type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 024fb22c3dc2344c6af00bdb553e92fc,
+      type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2fed13f50d46245a0a677d9aa1a0eaab,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1288a64daf12343218be6d51827df8c6,
       type: 2}
